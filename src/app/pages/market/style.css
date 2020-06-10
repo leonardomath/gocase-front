@@ -1,6 +1,5 @@
 body {
-  /* background: url('./img/background1.png'); */
-  background: #1B1B1C;
+  background: url('./img/background2.png'); 
   background-size: cover;
 }
 
@@ -13,3 +12,6 @@ body {
   padding: 20px;
 }
 
+.cases {
+  display: flex;
+}

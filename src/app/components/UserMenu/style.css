@@ -28,3 +28,14 @@
   position: absolute;
   bottom: 20px;
 }
+
+.username {
+  color: #fff;
+  font-size: 24px;
+}
+
+.money {
+  color: rgb(26, 199, 26);
+  font-size: 18px;
+  margin-bottom: 10px;
+}
